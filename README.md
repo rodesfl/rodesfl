@@ -1,7 +1,7 @@
 
 ## Hey there,
 
-My name is Rodrigo Farinaccio Lotrario, 25, working as a software developer since I was 17. I'm from Brazil, enrolled into Computer Enginnering in 2015 at Federal University of Goiás, transferred to Computer Science in 2018, but never finished my degree. Yeah, I know it's important, but honestly I see no rush at the moment.
+My name is Rodrigo Farinaccio Lotrario, 26, working as a software developer since I was 17. I'm from Brazil, enrolled into Computer Enginnering in 2015 at Federal University of Goiás, transferred to Computer Science in 2018, but never finished my degree. Yeah, I know it's important, but honestly I see no rush at the moment.
 
 Today I'm working as a backend developer at [BTG Pactual](https://www.linkedin.com/company/btgpactual/), a 40 years old multinational investment bank.
 I love working with others, helping wherever I can and finding solutions to problems that seem impossible. My last big accomplishment was to develop a free routing system for vehicles, combining the data from OpenStreetMap (OSRM) and Google's Or-Tools library. I'm very happy to say that after a few months of hard work from our team, it was a huge success and is running in production for more than three years.
