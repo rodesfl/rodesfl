@@ -1,9 +1,9 @@
 
 ## Hey there,
 
-My name is Rodrigo Farinaccio Lotrario, 27, working as a software developer since I was 17. I'm from Brazil, enrolled into Computer Science in 2021, but never finished my degree. I'm really dedicated now to finish this important part of my life, and hope to finish by mid 2025.
+My name is Rodrigo Farinaccio Lotrario, 29, working as a software developer since I was 17. I'm from Brazil, enrolled into Computer Science in 2021, but never finished my degree. I'm really dedicated now to finish this important part of my life, and hope to finish by mid 2026.
 
-Today I'm working as a backend developer at [BTG Pactual](https://www.linkedin.com/company/btgpactual/), a 40 years old multinational investment bank.
+Today I'm working as a backend developer at [FNZ](https://www.fnz.com/), a global financial technology company that provides investment platforms and infrastructure for wealth management. It partners with banks, insurers, and asset managers to offer digital solutions that handle investment administration, portfolio management, and client engagement.
 I love working with others, helping wherever I can and finding solutions to problems that seem impossible. My last big accomplishment was to develop a free routing system for vehicles, combining the data from OpenStreetMap, OpenSourceRoutingMachine, and Google's Or-Tools library. I'm very happy to say that after a few months of hard work from our team, it was a huge success and is running in production for more than four years.
 
 I'm always open to new challenges, so feel free to contact me about projects and opportunities, It will be my genuine pleasure to talk to you.
